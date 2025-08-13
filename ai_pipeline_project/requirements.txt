@@ -1,0 +1,23 @@
+# streamlit
+# pypdf
+# requests
+# python-dotenv
+# sentence-transformers
+# qdrant-client
+# google-generativeai
+# pytest
+
+
+# ---
+langchain
+langgraph
+langsmith
+langchain-google-genai
+google-generativeai
+streamlit
+pypdf
+requests
+python-dotenv
+sentence-transformers
+qdrant-client
+pytest
