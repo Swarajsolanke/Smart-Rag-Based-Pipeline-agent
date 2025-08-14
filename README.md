@@ -123,8 +123,8 @@ ai_pipeline_project/
 ### 1. Clone and Setup
 
 ```bash
-git clone <your-repo-url>
-cd ai_pipeline_project
+git clone https://github.com/Swarajsolanke/Smart-Rag-Based-Pipeline-agent.git
+cd Smart-Rag-Based-Pipeline
 pip install -r requirements.txt
 ```
 
@@ -337,7 +337,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ using modern AI technologies**
 
 [⭐ Star this repo](https://github.com/yourusername/ai-pipeline-project) • [🐛 Report Issues](https://github.com/yourusername/ai-pipeline-project/issues) • [📖 Documentation](https://github.com/yourusername/ai-pipeline-project/wiki)
 
