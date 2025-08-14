@@ -107,6 +107,11 @@ ai_pipeline_project/
 # demo of project :
 ![AI Pipeline Diagram](Agent.png)
 
+1.Langraph result:
+![alt text](langraph_result.png)
+
+![alt text](result.png)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
