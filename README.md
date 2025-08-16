@@ -337,7 +337,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-
-[⭐ Star this repo](https://github.com/yourusername/ai-pipeline-project) • [🐛 Report Issues](https://github.com/yourusername/ai-pipeline-project/issues) • [📖 Documentation](https://github.com/yourusername/ai-pipeline-project/wiki)
+[⭐ Star this repo](https://github.com/swarajsolanke/ai-pipeline-project) • [🐛 Report Issues](https://github.com/swarajsolanke/ai-pipeline-project/issues) • [📖 Documentation](https://github.com/swarajsolanke/ai-pipeline-project/wiki)
 
 </div> 
